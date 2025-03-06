@@ -6,7 +6,7 @@
 
 1. **Clone the Repository:**
     ```sh
-    git clone https://github.com/LokeshKumar710/Discord-Clone.git
+    git clone https://github.com/adithya0910/discordclone.git
     ```
 2. **Install the Required Packages:**
     ```sh
